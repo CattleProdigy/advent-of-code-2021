@@ -9,6 +9,7 @@ edition = "2018"
 [dependencies]
 regex = "1"
 nalgebra = "0.29"
+petgraph = "0.6"
 
 [[bin]]
 name = "aoc_01"
