@@ -10,6 +10,7 @@ edition = "2018"
 regex = "1"
 nalgebra = "0.29"
 petgraph = "0.6"
+lazy_static = "1"
 
 [[bin]]
 name = "aoc_01"
